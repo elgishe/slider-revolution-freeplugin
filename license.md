@@ -2,11 +2,11 @@
 
 **Slider Revolution** - plugin de WordPress gratis, version 2026. Sin registro, sin pagos, sin costos ocultos.
 
-## What is Slider Revolution
+## Que es Slider Revolution
 
 Slider Revolution es un plugin de WordPress utilizado por miles de sitios. La version de este repositorio es el paquete completo - subelo desde el panel de administracion de WordPress y activalo como cualquier otro plugin.
 
-## Key Features
+## Caracteristicas principales
 
 - Conjunto completo de funciones, nada bloqueado
 - Compatible con todos los temas y constructores de paginas modernos
@@ -14,14 +14,14 @@ Slider Revolution es un plugin de WordPress utilizado por miles de sitios. La ve
 - Actualizaciones regulares, version mas reciente incluida
 - Se instala en menos de un minuto
 
-## Installation
+## Instalacion
 
 1. Descarga `slider-revolution.zip` de la seccion de [releases](../../releases).
 2. En el panel de administracion de WordPress, abre **Plugins -> Anadir nuevo -> Subir plugin**.
 3. Selecciona el zip descargado y pulsa **Instalar ahora**.
 4. Pulsa **Activar**.
 
-## FAQ
+## Preguntas frecuentes
 
 **Es la version completa?**
 Si - el paquete completo del plugin, todas las funciones incluidas.
@@ -35,7 +35,7 @@ WordPress 6.0 - 6.7 o superior, PHP 7.4 - 8.3 o superior.
 **Como actualizo?**
 Descarga la version mas reciente y reemplaza la anterior.
 
-## Download Slider Revolution
+## Descargar Slider Revolution
 
 [![Download](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge)](../../releases)
 
